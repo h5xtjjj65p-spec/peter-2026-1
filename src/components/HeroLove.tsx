@@ -25,7 +25,7 @@ export default function HeroLove({ herName }: { herName: string }) {
         <div className="relative">
           <div className="absolute -inset-10 rounded-full bg-rose-500/10 blur-3xl" />
           <h1 className="relative font-display text-6xl italic leading-[.95] text-cream sm:text-7xl md:text-8xl lg:text-9xl">
-            Para{"La bebita Preciosa"}
+            Para{""}
             <span className="text-gradient-gold not-italic animate-shimmer">{herName}</span>
             <span className="ml-2 inline-block align-super text-3xl text-rose-400 animate-heartbeat sm:text-5xl">♥</span>
           </h1>
