@@ -19,7 +19,7 @@ export default function HeroLove({ herName }: { herName: string }) {
       <div className={`relative z-10 mx-auto flex max-w-4xl flex-col items-center text-center transition-all duration-[1400ms] ease-[cubic-bezier(0.22,1,0.36,1)] ${mounted ? "translate-y-0 opacity-100" : "translate-y-6 opacity-0"}`}>
         <div className="mb-7 inline-flex items-center gap-2 rounded-full border border-gold-300/15 bg-white/[0.03] px-4 py-2 text-[10px] font-medium uppercase tracking-[0.32em] text-gold-200/80">
           <Sparkles size={12} />
-          un lugar hecho solo para vos
+          Podes visitar las veces que quieras esta pagina💝
         </div>
 
         <div className="relative">
