@@ -12,5 +12,5 @@
 export const relationship = {
   herName: "Mi amor",
   myName: "Peter",
-  startDate: "2025-05-02",
+  startDate: "2025-08-14",
 };
