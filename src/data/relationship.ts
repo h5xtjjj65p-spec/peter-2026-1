@@ -10,7 +10,7 @@
  * Ejemplo: si empezaron el 2 de mayo de 2025, dejá "2025-05-02"
  */
 export const relationship = {
-  herName: "Mi amor",
+  herName: "La bebota",
   myName: "Peter",
   startDate: "2025-08-14",
 };
