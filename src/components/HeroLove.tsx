@@ -43,7 +43,7 @@ export default function HeroLove({ herName }: { herName: string }) {
             <ArrowDown size={16} className="transition-transform group-hover:translate-y-1" />
           </a>
           <a href="#recuerdos" className="hero-secondary">
-            Ver nuestros recuerdos
+            Ver nuestros encuentros
           </a>
         </div>
 
