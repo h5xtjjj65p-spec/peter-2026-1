@@ -32,8 +32,7 @@ export default function HeroLove({ herName }: { herName: string }) {
         </div>
 
         <p className="mx-auto mt-9 max-w-2xl text-pretty text-base leading-8 text-mist sm:text-lg">
-          No es una página más. Es un pequeño rincón para guardar lo que siento,
-          nuestros recuerdos y todo lo que todavía nos queda por vivir.
+          No te enojes conmigo, es solo un lugar donde quise dejar algunas cosas que pasaron entre nostoros .
         </p>
 
         <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row">
