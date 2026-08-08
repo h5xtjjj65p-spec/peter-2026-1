@@ -38,7 +38,7 @@ export default function HeroLove({ herName }: { herName: string }) {
         <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row">
           <a href="#historia" className="hero-cta group">
             <Heart size={16} fill="currentColor" />
-            Entrar a nuestra historia
+            Entra a ver algunas cosas que te deje
             <ArrowDown size={16} className="transition-transform group-hover:translate-y-1" />
           </a>
           <a href="#recuerdos" className="hero-secondary">
